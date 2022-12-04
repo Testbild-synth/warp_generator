@@ -1,2 +1,3 @@
-# warp_generator
-6HP through hole version of an LED PWM sound generator
+#  Warp Drive Sound Generator
+
+Space. the final frontier. tbd.
